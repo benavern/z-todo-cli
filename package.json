@@ -10,6 +10,7 @@
     "cli"
   ],
   "dependencies": {
+    "@z-todo/db": "^1.0.0",
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"
   },
