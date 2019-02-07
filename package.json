@@ -1,6 +1,6 @@
 {
   "name": "@z-todo/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the cli interface for @z-todo project",
   "bin": {
     "todo": "index.js"
